@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+micromime/__init__.py
+micromime/__main__.py
+micromime/cli.py
+micromime/core.py
+micromime.egg-info/PKG-INFO
+micromime.egg-info/SOURCES.txt
+micromime.egg-info/dependency_links.txt
+micromime.egg-info/entry_points.txt
+micromime.egg-info/top_level.txt

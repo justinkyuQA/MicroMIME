@@ -1,0 +1,2 @@
+[console_scripts]
+micromime = micromime.cli:main
